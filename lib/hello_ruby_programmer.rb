@@ -1,2 +1,2 @@
 def greeting (name)
-  puts
+  putsHi! Welcome to the wonderful world of Ruby programming."
